@@ -121,7 +121,7 @@ function getArea(shape: Shape): number {
 
 ---
 
-## Type Aliases vs Interfaces
+## Types Alias vs Interfaces
 
 [Typescript Official Document](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#differences-between-type-aliases-and-interfaces)
 
